@@ -8,3 +8,4 @@ board = [" "," "," "," "," "," "," "," "," "]
 
 puts "Welcome to Tic Tac Toe!"
 self "Where would you like to go?"
+gets 

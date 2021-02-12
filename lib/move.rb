@@ -11,3 +11,5 @@ def input_to_index(user_input)
 end
 
 user_input = "1"
+
+input_to_index(user_input)
